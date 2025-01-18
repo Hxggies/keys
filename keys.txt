@@ -14,6 +14,6 @@ Amdj2ajGFF-Kwjnfaf-InTheBiz = a7:9c:70:c0:01:04 = none
 faggot-retard = 1c:73:ce:38:e2:89 = prime
 David-Is-A-Nigga = 77:dd:75:d7:5d:77 = prime
 Mortal-231afaf-21rasf5 = 9f:7c:f3:cf:3c:f2 = prime
-BigSteppa-2AF823ADA581-289FAGDGW = 1f:7d:f7:dd:76:da = none
+BigSteppa-2AF823ADA581-289FAGDGW = HWID: 4A7CDD11-66F0-B94A-9552-4F4CB3A00AEB = none
 BigSteppa2-2AF823ADA581-289FAGDGW = af:be:f9:e5:95:55 = none
 test = 4D3B6198-BB3A-11EF-BA3D-1EF95F158F02 = prime
