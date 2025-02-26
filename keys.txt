@@ -20,4 +20,3 @@ test = E1188802-2267-0000-0000-000000000000 = prime
 Gbafb3gasnm-Wyl-Sb2351bjksf = EF5E3CD8-E5D3-11E2-389C-5EFC95B38801 = none
 KjnkgsdjkhKjb-Arata-ksdlajfjHN = ba:e9:a5:96:58:60 = none
 akachinko-black = 88DEC394-E980-11B4-4905-D387A032BF0D = prime
-oneday-test = 4BF0346C-D949-119F-E441-847BFA5E0D00 = none
